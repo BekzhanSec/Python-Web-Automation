@@ -1,30 +1,48 @@
-# Web Automation & Scripting Portfolio 🐍 🤖
+# 👋 Hello, I'm Bekzhan | H4cker0099
+### 🛡️ Aspiring Cybersecurity Researcher & Automation Engineer
 
-This repository contains various Python scripts designed to automate repetitive web tasks using **Selenium** and **Requests**.
-
-### 🚀 Featured Project: Educational Portal Automation
-A custom-built Python script designed to automate login/logout processes for a specific educational portal (Kundelik.kz).
-
-**Key Features:**
-- **Automated Authentication:** Securely handles login credentials.
-- **Headless Mode:** Can run in the background without opening a browser window.
-- **Error Handling:** Robust logic to manage network timeouts or login failures.
+I am a 16-year-old tech enthusiast from Kazakhstan, focused on **Ethical Hacking**, **Linux System Administration**, and **Python Automation**. I love exploring how systems work and how to make them more secure.
 
 ---
 
-### 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **Libraries:** Selenium WebDriver, Time, OS
-- **Drivers:** ChromeDriver / GeckoDriver (Linux)
+### 🚀 Quick Overview
+- 🛡️ **Current Focus:** Completing the **Junior Penetration Tester** path on TryHackMe.
+- 🐍 **Automation:** Expert in building stealthy web bots using **Python & Selenium**.
+- 🐧 **OS:** Daily driving **Linux Mint XFCE** (Performance & Security).
+- ⚙️ **Hardware:** Building IoT projects with **Arduino** and electronic circuits.
 
 ---
 
-### 📂 How it Works
-1. The script initializes the WebDriver.
-2. It navigates to the portal and locates the login fields using CSS Selectors/XPath.
-3. It performs the required actions (Login/Logout/Data Entry) automatically.
+### 🛠️ Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Penetration Testing** | Nmap, Metasploit, Burp Suite, Wireshark, Gobuster |
+| **Automation & Dev** | Python (Selenium, Requests), Bash Scripting, SQL |
+| **Anonymity & Privacy** | Tor Network, ProxyChains, IP Rotation Techniques |
+| **Networking** | TCP/IP, DNS Security, Network Analysis |
 
 ---
 
-### ⚠️ Disclaimer
-These scripts are for educational purposes and personal productivity only. Always ensure you have permission before automating interactions with any web service.
+### 📂 Featured Projects
+- **[Pickle Rick CTF Write-up](https://github.com/H4cker0099/Pickle-Rick-CTF-Writeup):** Detailed technical report on exploiting a web server.
+- **[Stealth Web Automation](https://github.com/H4cker0099/Python-Web-Automation):** A Python script featuring Tor IP rotation and anti-bot detection.
+- **Kundelik Automation:** Automating educational portal tasks for efficiency.
+
+---
+
+### 📊 Professional Progress
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H4cker0099.png" alt="TryHackMe Badge" />
+</p>
+
+- **Target:** Junior Pentester Certification (Deadline: May 24, 2026)
+- **Status:** Active Learner & Freelance Contributor
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/H4cker0099)
+[<img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme.com/p/H4cker0099)
+
+> "The quieter you become, the more you are able to hear." — *Kali Linux*
