@@ -8,7 +8,7 @@ I am a 16-year-old tech enthusiast from Kazakhstan, focused on **Ethical Hacking
 ### 🚀 Quick Overview
 - 🛡️ **Current Focus:** Completing the **Junior Penetration Tester** path on TryHackMe.
 - 🐍 **Automation:** Expert in building stealthy web bots using **Python & Selenium**.
-- 🐧 **OS:** Daily driving **Linux Mint XFCE** (Performance & Security).
+- 🐧 **OS:** Daily driving **Linux** (Performance & Security).
 - ⚙️ **Hardware:** Building IoT projects with **Arduino** and electronic circuits.
 
 ---
